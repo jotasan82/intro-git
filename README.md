@@ -10,7 +10,7 @@ Este es nuestro primer proyecto en GitHub
 - <strong>git add . </strong> or <strong> git add nombre-archivo </strong>(Añadir los archivos al store area)
 - <strong>git commit -m 'comentario'</strong>(Guardar los cambios que estén en el stage area)
 - <strong>git log </strong>(Consultar los commit)
-- <strong>git push origin rama </strong>(Subir los commit al repositorio)
+- <strong>git push origin rama </strong>(subir los commit al repositorio)
 - <strong>git status </strong> (consultar cambios en el proyecto)
 - <strong>git branch</strong> (consultar ramas del proyecto y en cual estamos ubicados)
 - <strong>git branch nombre-rama</strong> (crear rama)
